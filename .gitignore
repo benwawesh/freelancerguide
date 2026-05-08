@@ -71,3 +71,5 @@ backend/static/
 # Frontend specific
 frontend/dist/
 frontend/node_modules/
+# Backup files
+Home_*.jsx
